@@ -38,13 +38,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=akanksha718&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha718&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-  
-[![](https://visitcount.itsvg.in/api?id=SakshiGoyat&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
