@@ -3,8 +3,7 @@
 </div>
 
 <h1 align="center" class="typewriter">Hi 👋, I'm Akanksha Negi</h1>
-
-<h3 align="center" class="typewritter">A passionate Full Stack Developer from India. </h3>
+<h3 align="center" class="typewriter">A passionate Full Stack Developer from India. </h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -37,14 +36,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akanksha718&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=akanksha718&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha718&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  <!-- Real-time Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akanksha718&theme=react-dark&area=true&hide_border=true" />
+</p>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
 <h4> 📬 Reach me out </h4>
-<p align="left">
+<p align="center">
 <a href = "https://www.linkedin.com/in/akanksha-negi-51555a2b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/__akanksha23_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://leetcode.com/u/ak_N/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
