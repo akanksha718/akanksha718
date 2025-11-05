@@ -2,7 +2,7 @@
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
 </div>
 
-<h1 align="center">Hi 👋, I'm Akanksha Negi</h1>
+<h1 align="center" class="typewriter">Hi 👋, I'm Akanksha Negi</h1>
 
 <h3 align="center" class="typewritter">A passionate Full Stack Developer from India. </h3>
 
