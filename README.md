@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Akanksha Negi</h1>
 
-<h3 align="center">A passionate Full Stack Developer from India. </h3>
+<h3 align="center" class="typewritter">A passionate Full Stack Developer from India. </h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -35,7 +35,7 @@
   
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akanksha718&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=akanksha718&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-stats.vercel.app/api?username=akanksha718&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha718&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
