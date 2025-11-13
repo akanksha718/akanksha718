@@ -26,9 +26,7 @@ I’m **Akanksha Negi**, a **3rd-year Computer Science student (B.Tech CSE ‘27
   
 ### 📊 GitHub Stats:
 <!-- <p align="center"> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=akanksha718&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=akanksha718&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha718&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <!-- </p> -->
 <p align="center">
   <!-- Real-time Contribution Graph -->
