@@ -23,7 +23,7 @@ I’m **Akanksha Negi**, a **3rd-year Computer Science student (B.Tech CSE ‘27
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c,python,html,css,nodejs,express,react,tailwind,postgresql,mongodb,mysql,git,linux,vscode,postman,redux,bootstrap,docker,fastapi,firebase,netlify,npm,opencv&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c,python,html,css,nodejs,express,react,tailwind,postgresql,mongodb,mysql,git,linux,vscode,postman,redux,bootstrap,docker,fastapi,firebase,netlify,npm,opencv,flask,kaggle&perline=9" />
 </p>
   
 ### 📊 GitHub Stats:
