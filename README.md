@@ -4,10 +4,10 @@
 <div align="center" >
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akanksha718&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha" /> </p>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akanksha718&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha" /> </p>
-### 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 I’m **Akanksha Negi**, a **3rd-year Computer Science student (B.Tech CSE ‘27)** passionate about building high-performance applications. 
 
 - 💡 I love solving real-world engineering problems.  
