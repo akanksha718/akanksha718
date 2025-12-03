@@ -13,7 +13,7 @@ I’m **Akanksha Negi**, a **3rd-year Computer Science student (B.Tech CSE ‘27
 - 💡 I love solving real-world engineering problems.  
 - ⚙️ Always curious about new technologies and performance optimization.  
 - 🧠 Learning through open-source contributions and hands-on projects.  
-<!-- - 👨‍💻 Know me more <a href="https://sakshi-goyat-portfolio.netlify.app" style="text-decoration: none;">Portfolio</a> -->
+- 👨‍💻 Know me more <a href="https://myportfolio-orcin-ten-23.vercel.app/" style="text-decoration: none;">Portfolio</a> 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ankiakanksha707@gmail.com" style="text-decoration: none;">Email</a>
 
 ---
