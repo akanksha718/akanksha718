@@ -39,29 +39,30 @@ I’m **Akanksha Negi**, a **3rd-year Computer Science student (B.Tech CSE ‘27
 </p>
 
 ---
-  
-## Connect with me
+## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/akanksha-negi-51555a2b6/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/__akanksha23_/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akanksha" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-   <a href="https://codolio.com/profile/akanksha_negi" target="blank">
-    <img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGv29nE_F_HRg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724164365236?e=2147483647&v=beta&t=-AwUx7FTMbXcypoZrZ0SmmEo6so1gb0R1UhiuZ224qI" alt="ak" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   
-  <a href="https://www.naukri.com/code360/profile/akankshanegi" target="blank">
-    <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="ak" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ak_N/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ak" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/akankshakxnx/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ak" height="30" width="40" />
+  <a href="https://linkedin.com/in/akanksha-negi-51555a2b6/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
+  
+  <a href="https://www.instagram.com/__akanksha23_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+  
+  <a href="https://leetcode.com/u/ak_N/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="50" />
+  </a>
+  
+  <a href="https://www.geeksforgeeks.org/user/akankshakxnx/" target="_blank">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="50" />
+  </a>
+  
+  <a href="https://www.naukri.com/code360/profile/akankshanegi" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/88321750?v=4" height="50" />
+  </a>
+  
+ 
 </p>
 
 
